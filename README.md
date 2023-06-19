@@ -24,8 +24,8 @@
 
 <!-- Tech stack -->
 <h2>Tech stack 🔭</h2>
-<p align="center">
-  <b>Languages</b>
+<p>
+  <b>Languages and Tools:</b>
   <br>
   <br>
   
