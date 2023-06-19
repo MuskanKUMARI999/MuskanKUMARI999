@@ -1,3 +1,16 @@
+<!-- Header -->
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,There!+👋;Welcome+to+my+Github....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
+<h1 align="center">
+  <br>
+  I'm Muskan Kumari <img src="./images/hi.gif" width="30px" height="30px">
+</h1>
+
+
+
 - 👋 Hi, I’m Muskan Kumari
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Full Stack Web Development
