@@ -17,13 +17,18 @@
   <img src="./image/avatar.gif" width="300">
 </p>
 
+- 👀 I am quite curious and a self-learner. I love exploring new technologies and currently learning new skills.
+- 💻 I love creating websites using React, JS, Express and MongoDB.
+- 🌱 I’m currently learning Full Stack Web Development.
+- 💌 How to reach me muskan.officialzen@gmail.com
 
-
-- 👋 Hi, I’m Muskan Kumari
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Full Stack Web Development
-- 📫 How to reach me muskan.officialzen@gmail.com
-- 
+<!-- Tech stack -->
+<h2>Tech stack 🔭</h2>
+<p align="center">
+  <b>Languages</b>
+  <br>
+  <br>
+  
 
 <!---
 MuskanKUMARI999/MuskanKUMARI999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
