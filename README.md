@@ -6,8 +6,16 @@
 </h1>
 <h1 align="center">
   <br>
-  I'm Muskan Kumari <img src="./images/hi.gif" width="30px" height="30px">
+  I'm Muskan Kumari <img src="./image/hi.gif" width="30px" height="30px">
 </h1>
+
+<p align="center">
+  <b>I'm a passionate programmer who loves to code</b>
+</p>
+
+<p align="center">
+  <img src="./image/avatar.gif" width="300">
+</p>
 
 
 
